@@ -1,10 +1,10 @@
-## Olá, eu sou a Júlia Farias 👋
+## Hi, I'm Júlia Farias 👋
 
 
-### 👾Atualmente trabalho como desenvolvedora full stack 
-### 👨‍💻 Estou aprendendo Rails e React
-### 🤝 Pronomes: todos
-### ✨ Fun fact: Gosto de brincar com Data Science
+### 👾 Software Engineering at EMBRAER
+### 👨‍💻 React| Node | CSS | HTML | MongoDB | MySQL
+### 🤝 Pronouns : any
+### ✨ Fun fact: Data science enthusiast
 
 
 <div align="center">
