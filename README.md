@@ -1,7 +1,7 @@
 ## Hi, I'm Júlia Farias 👋
 
 
-### 👾 Software Engineering at EMBRAER
+### 👾 Software Engineering at IBM
 ### 👨‍💻 React| Node | CSS | HTML | MongoDB | MySQL
 ### 🤝 Pronouns : any
 ### ✨ Fun fact: Data science enthusiast
