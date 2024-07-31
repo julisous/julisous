@@ -2,7 +2,7 @@
 
 
 
-### 👨‍💻 React| Node | CSS | HTML | MongoDB | MySQL
+### 👨‍💻 React| Node | CSS | HTML | MongoDB | MySQL | Python
 ### 🤝 Pronouns : any
 ### ✨ Fun fact: Data science enthusiast
 
