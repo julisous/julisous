@@ -2,9 +2,8 @@
 
 
 
-### 👨‍💻 React| Node | CSS | HTML | MongoDB | MySQL | Python
+### 👨‍💻 Python | R | Go | JavaScript | LangChain | FastAPI | PyTorch | TensorFlow | 
 ### 🤝 Pronouns : any
-### ✨ Fun fact: Data science enthusiast
 
 
 <div align="center">
